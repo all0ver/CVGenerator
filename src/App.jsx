@@ -7,7 +7,7 @@ export default function App() {
         left
       </div>
       <div className="min-h-screen w-1/2 flex justify-center items-center bg-red-300">
-        <CV name='Mateusz' surname='Karpiński' email='mateusz.karpinski29@gmail.com' birth='15.10.2003' country='Poland' />
+        <CV name='Mateusz' surname='Karpiński' email='mateusz.karpinski29@gmail.com' birth='15.10.2003' country='Poland' phone='123 123 123' />
       </div>
     </div>
   );
